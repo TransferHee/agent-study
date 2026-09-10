@@ -6,15 +6,6 @@
 
 이 repository는 `langchain`과 `langgraph`를 활용한 AI agent 개발을 학습하기 위한 project입니다.
 
-## Commands
-
-_(아직 build/lint/test 도구가 설정되지 않았습니다. package manager나 build system이 갖춰지면 아래에 명령어를 추가하세요.)_
-
-- Build: `TODO`
-- Lint: `TODO`
-- Test (전체): `TODO`
-- Test (단일): `TODO`
-
 ## Architecture
 
 ### 디렉토리 구조
